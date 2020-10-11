@@ -1,0 +1,26 @@
+{
+  "name": "Hooks",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "body-parser-xml": "^2.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yjeffrey",
+  "license": "-",
+  "repository": {
+    "type": "git"
+  },
+  "type": "module",
+  "description": "READ ME\r =============="
+}
